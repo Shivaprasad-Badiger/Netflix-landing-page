@@ -2,21 +2,4 @@ UI
     figure out reusable elements
     devide the ui into fragment
     build the skeleton
-
-    Frequently Asked Questions
-
-What is Netflix?
-
-
-
-How much does Netflix cost?
-
-Where can I watch?
-
-
-
-How do I cancel?
-
-What can I watch on Netflix?
-
-Is Netflix good for kids?
+    style it using css
